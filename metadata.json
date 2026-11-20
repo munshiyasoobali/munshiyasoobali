@@ -1,0 +1,8 @@
+{
+  "name": "Oxford School Management Portal",
+  "description": "A secure, responsive web platform for managing student records, attendance, school diaries, and fee payments with role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
